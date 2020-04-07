@@ -1,0 +1,13 @@
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.vbprojAssemblyReference.cache
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid_App_1.Form1.resources
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid_App_1.Main.resources
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid_App_1.Resources.resources
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.vbproj.GenerateResource.cache
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.vbproj.CoreCompileInputs.cache
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\bin\Debug\Walid App 1.exe.config
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\bin\Debug\Walid App 1.exe
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\bin\Debug\Walid App 1.pdb
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\bin\Debug\Walid App 1.xml
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.exe
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.xml
+C:\Users\Beshoy Meliek\source\repos\Walid App 1\Walid App 1\obj\Debug\Walid App 1.pdb
